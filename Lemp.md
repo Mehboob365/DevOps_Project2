@@ -66,7 +66,8 @@ Testing to see if I am able to log in to the MySQL console by typing:
   To install these 2 packages at once, run:
 
     sudo apt install php-fpm php-mysql
-    ![image](https://user-images.githubusercontent.com/67065306/131833017-1f043654-54ca-4e9a-8872-9fec387812c2.png)
+  
+ ![image](https://user-images.githubusercontent.com/67065306/131833017-1f043654-54ca-4e9a-8872-9fec387812c2.png)
    When prompted, type Y and press ENTER to confirm installation.
 
   ![image](https://user-images.githubusercontent.com/67065306/131833168-c7251b41-aa72-45fd-aa09-1be89676dddc.png)
