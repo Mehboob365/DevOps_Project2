@@ -1,6 +1,6 @@
-In this project you will implement a similar stack, but with an alternative Web Server – NGINX
+In this project we will implement a similar stack, but with an alternative Web Server – NGINX
 
-Download and install Git Bash like it is shown;
+Will download and install Git Bash like it is shown;
 ![image](https://user-images.githubusercontent.com/67065306/131700154-9f57ece2-4392-47fd-a00d-e1e2d7d442dc.png)
 
 Launch GitBash
